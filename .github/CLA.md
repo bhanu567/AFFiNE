@@ -6,7 +6,7 @@ To clarify the intellectual property license granted with contributions from any
 
 You accept and agree to the following terms and conditions for your past, present and future contributions submitted to AFFiNE. You should sign this agreement before submitting your first contribution. Except for the license granted herein to AFFiNE and recipients of software distributed by AFFiNE, You reserve all right, title, and interest in and to Your Contributions.
 
-1. Parties.
+1. Parties:
 
    (a) "AFFiNE" refers to the project's operator, TOEVERYTHING PTE. LTD registered in Republic of Singapore.
 
